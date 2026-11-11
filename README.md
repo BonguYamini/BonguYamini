@@ -17,7 +17,6 @@
 ## 🙋‍♀️ About Me
 
 - 🎓 Diploma in **Computer Engineering** from Govt. Polytechnic Srikakulam — **97.6%**
-- 🏆 **AP ECET 2026 Rank 250** — entering B.Tech via lateral entry
 - 🧠 Passionate about **Machine Learning**, **web apps**, and tech for social good
 - 🏭 Industrial trainee @ **HMIES Solutions, Visakhapatnam** — built a real-world mental health ML app
 - 🌱 Currently learning **React**, **FastAPI**, and diving deeper into ML pipelines
